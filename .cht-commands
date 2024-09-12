@@ -16,6 +16,8 @@ less
 head
 tail
 tar
+zip
+unzip
 cp
 rm
 rename
